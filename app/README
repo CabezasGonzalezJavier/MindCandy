@@ -1,0 +1,2 @@
+This project use Retrofit which turns REST flickr API into a Java interface.
+This project use Picasso which allows for hassle-free image loading in application.
